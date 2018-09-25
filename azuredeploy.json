@@ -5,7 +5,7 @@
         "virtualNetworkName": {
             "type": "string",
             "metadata": {
-                "description": "Name for new virtual network"
+                "description": "New Name for new virtual network"
             }
         },
         "addressPrefix": {
